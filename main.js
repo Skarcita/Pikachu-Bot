@@ -531,7 +531,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn?.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `[ ⏳ ] Uptime: ${uptime}`;
+  const bio = `𝑩𝒐𝒕 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝑩𝒚 𝑺𝒉𝒂𝒅𝒐𝒘𝑽𝒛 𝑻𝒊𝒎𝒆 𝑨𝒄𝒕𝒊𝒗𝒆𝒅: ${uptime}`;
   await conn?.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {
