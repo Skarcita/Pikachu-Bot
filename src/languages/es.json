@@ -26,7 +26,7 @@
         "_antitoxic": {
             "texto1": "_*☁️ ANTI-TOXIC ☁️*_\n\n*[ ❗ ] ",
             "texto1_1": " enviar la palabra ",
-            "texto1_2": " está prohibido en este grupo.\n\n▢ *Advertencia:* ",
+            "texto1_2": " está prohibido en este grupo.\n\n *Advertencia:* ",
             "texto2": "_*☁️ ANTI-TOXIC ☁️*_\n\n*[ ❗ ] El participante ",
             "texto2_1": "superó las 5 advertencias, por lo que será expulsado del grupo.* "
         },
@@ -50,35 +50,35 @@
         "_detectevents": {
             "texto1": "*𝑺𝒆 𝑺𝒖𝒎𝒂 𝑨𝒍 𝑮𝒓𝒖𝒑𝒐 𝑫𝒆 𝑨𝒅𝒎𝒊𝒏𝒔.*\n\n",
             "texto1_1": "*◦  𝑮𝒓𝒖𝒑𝒐:*",
-            "texto1_2": "*◦  𝙎𝙚 𝘼𝙨𝙘𝙚𝙣𝙙𝙞𝙤 𝘼:*",
-            "texto1_3": "*◦  𝘼𝙘𝙘𝙞𝙤𝙣 𝙍𝙚𝙖𝙡𝙞𝙯𝙖𝙙𝙖 𝙋𝙤𝙧:*",
+            "texto1_2": "*◦  𝑺𝒆 𝑨𝒔𝒄𝒆𝒏𝒅𝒊𝒐 𝑨:*",
+            "texto1_3": "*◦  𝑨𝒄𝒄𝒊𝒐𝒏 𝑹𝒆𝒍𝒊𝒛𝒂𝒅𝒂 𝑷𝒐𝒓:*",
             "texto2": "*𝑨𝒃𝒂𝒏𝒅𝒐𝒏𝒂 𝑬𝒍 𝑮𝒓𝒖𝒑𝒐 𝑫𝒆 𝑨𝒅𝒎𝒊𝒏𝒔.*\n\n",
             "texto2_1": "*◦  𝑮𝒓𝒖𝒑𝒐:*",
-            "texto2_2": "*◦  𝙎𝙚 𝘿𝙚𝙜𝙧𝙖𝙙𝙤 𝘼:*",
-            "texto2_3": "*◦  𝘼𝙘𝙘𝙞𝙤𝙣 𝙍𝙚𝙖𝙡𝙞𝙯𝙖𝙙𝙖 𝙋𝙤𝙧:*",
+            "texto2_2": "*◦  𝑺𝒆 𝑫𝒆𝒈𝒓𝒂𝒅𝒐 𝑨:*",
+            "texto2_3": "*◦  𝑨𝒄𝒄𝒊𝒐𝒏 𝑹𝒆𝒍𝒊𝒛𝒂𝒅𝒂 𝑷𝒐𝒓:*",
             "texto3": "*𝑺𝒆 𝑰𝒏𝒄𝒐𝒓𝒑𝒐𝒓𝒂 𝑼𝒏 𝑵𝒖𝒆𝒗𝒐 𝑴𝒊𝒆𝒎𝒃𝒓𝒐 𝑨𝒍 𝑮𝒓𝒖𝒑𝒐.*\n\n",
             "texto3_1": "*◦  𝑮𝒓𝒖𝒑𝒐:*",
-            "texto3_2": "*◦  𝙎𝙚 𝘼𝙜𝙧𝙚𝙜𝙤 𝘼:* ",
-            "texto3_3": "*◦  𝘼𝙘𝙘𝙞𝙤𝙣 𝙍𝙚𝙖𝙡𝙞𝙯𝙖𝙙𝙖 𝙋𝙤𝙧:* ",
-            "texto3_4": "*◦  𝙎𝙚 𝘼𝙜𝙧𝙚𝙜𝙤 𝘼:* ",
+            "texto3_2": "*◦  𝑺𝒆 𝑨𝒈𝒓𝒆𝒈𝒐 𝑨:* ",
+            "texto3_3": "*◦  𝑨𝒄𝒄𝒊𝒐𝒏 𝑹𝒆𝒍𝒊𝒛𝒂𝒅𝒂 𝑷𝒐𝒓:* ",
+            "texto3_4": "*◦  𝑺𝒆 𝑨𝒈𝒓𝒆𝒈𝒐 𝑨:* ",
             "texto4": "*𝑺𝒆 𝑬𝒍𝒊𝒎𝒊𝒏𝒐 𝑼𝒏 𝑴𝒊𝒆𝒎𝒃𝒓𝒐 𝑫𝒆𝒍 𝑮𝒓𝒖𝒑𝒐.*\n\n",
             "texto4_1": "*◦  𝑮𝒓𝒖𝒑𝒐:* ",
-            "texto4_2": "*◦  𝙎𝙚 𝙀𝙡𝙞𝙢𝙞𝙣𝙤 𝘼:* ",
-            "texto4_3": "*◦  𝘼𝙘𝙘𝙞𝙤𝙣 𝙍𝙚𝙖𝙡𝙞𝙯𝙖𝙙𝙖 𝙋𝙤𝙧:*",
-            "texto4_4": "*◦  𝙎𝙚 𝙀𝙡𝙞𝙢𝙞𝙣𝙤 𝘼:* ",
-            "texto5": "*𝙍𝙚𝙘𝙞𝙚𝙣𝙩𝙚𝙢𝙚𝙣𝙩𝙚 𝙎𝙚 𝙃𝙖 ",
-            "texto5_1": "𝙐𝙣 𝙄𝙣𝙩𝙚𝙜𝙧𝙖𝙣𝙩𝙚 𝘿𝙚𝙡 𝙂𝙧𝙪𝙥𝙤.*\n\n",
+            "texto4_2": "*◦  𝑺𝒆 𝑬𝒍𝒊𝒎𝒊𝒏𝒐 𝑨:* ",
+            "texto4_3": "*◦  𝑨𝒄𝒄𝒊𝒐𝒏 𝑹𝒆𝒍𝒊𝒛𝒂𝒅𝒂 𝑷𝒐𝒓:*",
+            "texto4_4": "*◦  𝑺𝒆 𝑬𝒍𝒊𝒎𝒊𝒏𝒐 𝑨:* ",
+            "texto5": "*𝑹𝒆𝒄𝒊𝒆𝒏𝒕𝒆𝒎𝒆𝒏𝒕𝒆 𝑺𝒆 𝑯𝒂 ",
+            "texto5_1": "𝑼𝒏 𝑰𝒏𝒕𝒆𝒈𝒓𝒂𝒏𝒕𝒆 𝑫𝒆𝒍 𝑮𝒓𝒖𝒑𝒐.*\n\n",
             "texto5_2": "`*◦  𝑮𝒓𝒖𝒑𝒐:* ",
-            "texto5_3": "*◦  𝙎𝙚 𝙀𝙡𝙞𝙢𝙞𝙣𝙤 𝘼:* ",
-            "texto5_4": "*◦  𝘼𝙘𝙘𝙞𝙤𝙣 𝙍𝙚𝙖𝙡𝙞𝙯𝙖𝙙𝙖 𝙋𝙤𝙧:* ",
-            "texto5_5": "*◦  𝘼𝙗𝙖𝙣𝙙𝙤𝙣𝙤:* ",
+            "texto5_3": "*◦  𝑺𝒆 𝑬𝒍𝒊𝒎𝒊𝒏𝒐 𝑨:* ",
+            "texto5_4": "*◦  𝑨𝒄𝒄𝒊𝒐𝒏 𝑹𝒆𝒍𝒊𝒛𝒂𝒅𝒂 𝑷𝒐𝒓:* ",
+            "texto5_5": "*◦  𝑨𝒃𝒂𝒏𝒅𝒐𝒏𝒐:* ",
             "texto6": "*𝑺𝒆 𝑯𝒂𝒏 𝑴𝒐𝒅𝒊𝒇𝒊𝒄𝒂𝒅𝒐 𝑳𝒐𝒔 𝑨𝒋𝒖𝒔𝒕𝒆𝒔 𝑫𝒆𝒍 𝑮𝒓𝒖𝒑𝒐.*\n\n",
             "texto6_1": "*◦  𝑮𝒓𝒖𝒑𝒐:* ",
-            "texto6_2": "*◦  𝘼𝙗𝙖𝙣𝙙𝙤𝙣𝙤:* ",
-            "texto6_3": "*◦  𝘼𝙘𝙘𝙞𝙤𝙣 𝙍𝙚𝙖𝙡𝙞𝙯𝙖𝙙𝙖 𝙋𝙤𝙧:* ",
-            "texto7": "*𝑺𝒆 𝑯𝒂 𝑴𝒐𝒅𝒊𝒇𝒊𝒄𝒂𝒅𝒐 𝑬𝒍 𝑵𝒐𝒎𝒃𝒓𝒆.*\n\n",
-            "texto7_1": "*◦  𝙉𝙪𝙚𝙫𝙤 𝙉𝙤𝙢𝙗𝙧𝙚:* ",
-            "texto7_2": "*◦  𝘼𝙘𝙘𝙞𝙤𝙣 𝙍𝙚𝙖𝙡𝙞𝙯𝙖𝙙𝙖 𝙋𝙤𝙧:* "
+            "texto6_2": "*◦  𝑨𝒃𝒂𝒏𝒅𝒐𝒏𝒐:* ",
+            "texto6_3": "*◦  𝑨𝒄𝒄𝒊𝒐𝒏 𝑹𝒆𝒍𝒊𝒛𝒂𝒅𝒂 𝑷𝒐𝒓:* ",
+            "texto7": "*𝑺𝒆 𝑯𝒂 𝑴𝒐𝒅𝒊𝒇𝒊𝒄𝒂𝒅𝒐 𝑬𝒍 𝑵𝒐𝒎𝒃𝒓𝒆 𝑫𝒆𝒍 𝑮𝒓𝒖𝒑𝒐.*\n\n",
+            "texto7_1": "*◦  𝑵𝒖𝒆𝒗𝒐 𝑵𝒐𝒎𝒃𝒓𝒆:* ",
+            "texto7_2": "*◦  𝑨𝒄𝒄𝒊𝒐𝒏 𝑹𝒆𝒍𝒊𝒛𝒂𝒅𝒂 𝑷𝒐𝒓:* "
         },
         "_premium": {
             "texto1": "𝚃𝚄 𝚃𝙸𝙴𝙼𝙿𝙾 𝙲𝙾𝙼𝙾 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝙿𝚁𝙴𝙼𝙸𝚄𝙼 𝙷𝙰 𝙴𝚇𝙿𝙸𝚁𝙰𝙳𝙾, 𝚈𝙰 𝙽𝙾 𝙴𝚁𝙴𝚂 𝚄𝙽 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝙿𝚁𝙴𝙼𝙸𝚄𝙼*"
@@ -278,161 +278,161 @@
         "config_funciones": {
             "texto1": [
                 "☁️ FUNCIONES DEL BOT ☁️",
-                "▢ *Opción:* ✨",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desactiva la bienvenida en el grupo."
+                " *Opción:* ✨",
+                " *Comando:*",
+                " *Descripción:* Activa o desactiva la bienvenida en el grupo."
             ],
             "texto2": [
-                "▢ *Opción:* 🌎",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El bot se vuelve de uso publico y/o privado.",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *Opción:* 🌎",
+                " *Comando:*",
+                " *Descripción:* El bot se vuelve de uso publico y/o privado.",
+                " *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto3": [
-                "▢ *Opción:* 🥵",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desactiva los comandos +18 en el grupo."
+                " *Opción:* 🥵",
+                " *Comando:*",
+                " *Descripción:* Activa o desactiva los comandos +18 en el grupo."
             ],
             "texto4": [
-                "▢ *Opción:* 🔗",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desactiva el anti-enlaces de WhatsApp.",
-                "▢ *Nota:* Se necesita tener activa la función restrict."
+                " *Opción:* 🔗",
+                " *Comando:*",
+                " *Descripción:* Activa o desactiva el anti-enlaces de WhatsApp.",
+                " *Nota:* Se necesita tener activa la función restrict."
             ],
             "texto5": [
-                "▢ *Opción:* 🔗",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desactiva el anti-enlaces que inician en HTTPS.",
-                "▢ *Nota:* Se necesita tener activa la función restrict."
+                " *Opción:* 🔗",
+                " *Comando:*",
+                " *Descripción:* Activa o desactiva el anti-enlaces que inician en HTTPS.",
+                " *Nota:* Se necesita tener activa la función restrict."
             ],
             "texto6": [
-                "▢ *Opción:* 🔎",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desacriva las notificaciones de cambios en el grupo."
+                " *Opción:* 🔎",
+                " *Comando:*",
+                " *Descripción:* Activa o desacriva las notificaciones de cambios en el grupo."
             ],
             "texto7": [
-                "▢ *Opción:* 🔎",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Detecta modificaciones en el grupo y mantiene una mejor gestion."
+                " *Opción:* 🔎",
+                " *Comando:*",
+                " *Descripción:* Detecta modificaciones en el grupo y mantiene una mejor gestion."
             ],
             "texto8": [
-                "▢ *Opción:* ❗ |",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desactiva las restricciones del Bot, como la de sacar o agregar personas a un grupo.",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *Opción:* ❗ |",
+                " *Comando:*",
+                " *Descripción:* Activa o desactiva las restricciones del Bot, como la de sacar o agregar personas a un grupo.",
+                " *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto9": [
-                "▢ *Opción:* ☑️",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Marca como leido los mensajes y los estados automáticamente.",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *Opción:* ☑️",
+                " *Comando:*",
+                " *Descripción:* Marca como leido los mensajes y los estados automáticamente.",
+                " *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto10": [
-                "▢ *Opción:* 🔊",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desactiva los comandos de audios sin prefijos, en el grupo."
+                " *Opción:* 🔊",
+                " *Comando:*",
+                " *Descripción:* Activa o desactiva los comandos de audios sin prefijos, en el grupo."
             ],
             "texto11": [
-                "▢ *Opción:* 👾",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Todas las imagenes o videos enviados en el grupo se convierten en stickers. "
+                " *Opción:* 👾",
+                " *Comando:*",
+                " *Descripción:* Todas las imagenes o videos enviados en el grupo se convierten en stickers. "
             ],
             "texto12": [
-                "▢ *Opción:* 💬",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El Bot solo responderá a los comandos si es un chat privado.",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *Opción:* 💬",
+                " *Comando:*",
+                " *Descripción:* El Bot solo responderá a los comandos si es un chat privado.",
+                " *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto13": [
-                "▢ *Opción:* 🏢",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El Bot solo respondera a los comandos si es un grupo. ",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *Opción:* 🏢",
+                " *Comando:*",
+                " *Descripción:* El Bot solo respondera a los comandos si es un grupo. ",
+                " *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto14": [
-                "▢ *Opción:* ❌",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Las imagenes enviadas para ver solo una vez, son reenviadas normal por el Bot. "
+                " *Opción:* ❌",
+                " *Comando:*",
+                " *Descripción:* Las imagenes enviadas para ver solo una vez, son reenviadas normal por el Bot. "
             ],
             "texto15": [
-                "▢ *Opción:* 📵",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El Bot bloquerá a las personas que llamen al Bot. ",
-                "▢ *Nota:* Este comando solo podra ser usado por owners del Bot."
+                " *Opción:* 📵",
+                " *Comando:*",
+                " *Descripción:* El Bot bloquerá a las personas que llamen al Bot. ",
+                " *Nota:* Este comando solo podra ser usado por owners del Bot."
             ],
             "texto16": [
-                "▢ *Opción:* 🤬",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Detecta la malas palabras y advierte al participante del grupo, antes de ser eliminado.",
-                "▢ *Nota:* Se necesita tener activa la función restrict."
+                " *Opción:* 🤬",
+                " *Comando:*",
+                " *Descripción:* Detecta la malas palabras y advierte al participante del grupo, antes de ser eliminado.",
+                " *Nota:* Se necesita tener activa la función restrict."
             ],
             "texto17": [
-                "▢ *Opción:* 🕸️",
-                "▢ *Comando:* ",
-                "▢ *Descripción:* El Bot detecta textos largos que podrian ser virus y causar lag en el chat y elimina al usuario.",
-                "▢ *Nota:* Se necesita tener activa la función restrict."
+                " *Opción:* 🕸️",
+                " *Comando:* ",
+                " *Descripción:* El Bot detecta textos largos que podrian ser virus y causar lag en el chat y elimina al usuario.",
+                " *Nota:* Se necesita tener activa la función restrict."
             ],
             "texto18": [
-                "▢ *Opción:* 👎",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Si un numero árabe se uné al grupo, el Bot lo elimina automaticamente.",
-                "▢ *Nota:* Se necesita tener activo el welcome y el restrict."
+                " *Opción:* 👎",
+                " *Comando:*",
+                " *Descripción:* Si un numero árabe se uné al grupo, el Bot lo elimina automaticamente.",
+                " *Nota:* Se necesita tener activo el welcome y el restrict."
             ],
             "texto19": [
-                "▢ *Opción:* 👎",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Si un numero árabe escribe en el grupo, el Bot lo elimina automaticamente.",
-                "▢ *Nota:* Se necesita tener activa la función restrict."
+                " *Opción:* 👎",
+                " *Comando:*",
+                " *Descripción:* Si un numero árabe escribe en el grupo, el Bot lo elimina automaticamente.",
+                " *Nota:* Se necesita tener activa la función restrict."
             ],
             "texto20": [
-                "▢ *Opción:* 👑",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El bot solo responderá a los mensajes enviados por los admins. del grupo."
+                " *Opción:* 👑",
+                " *Comando:*",
+                " *Descripción:* El bot solo responderá a los mensajes enviados por los admins. del grupo."
             ],
             "texto21": [
-                "▢ *Opción:* 😃",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El bot empezará a responder a los mensajes usando la IA de SimSimi."
+                " *Opción:* 😃",
+                " *Comando:*",
+                " *Descripción:* El bot empezará a responder a los mensajes usando la IA de SimSimi."
             ],
             "texto22": [
-                "▢ *Opción:* 🛡️",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El bot detecta cuando un usuario elimina un mensaje y lo reenvía."
+                " *Opción:* 🛡️",
+                " *Comando:*",
+                " *Descripción:* El bot detecta cuando un usuario elimina un mensaje y lo reenvía."
             ],
             "texto23": [
-                "▢ *Opción:* 🔊",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Se desactivan los audios del Bot del menuaudios para todos los chats privados.",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *Opción:* 🔊",
+                " *Comando:*",
+                " *Descripción:* Se desactivan los audios del Bot del menuaudios para todos los chats privados.",
+                " *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto24": [
-                "▢ *Opción:* 🤖",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Se activa el modo 'Inteligencia Artificial' con ChatGPT en todos los chats privados.",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *Opción:* 🤖",
+                " *Comando:*",
+                " *Descripción:* Se activa el modo 'Inteligencia Artificial' con ChatGPT en todos los chats privados.",
+                " *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto25": [
-                "▢ *Opción:* ⏳",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El Bot detecta cuando un usuario hace spam de comando y lo banea por 5 segundos y lo advierte.",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *Opción:* ⏳",
+                " *Comando:*",
+                " *Descripción:* El Bot detecta cuando un usuario hace spam de comando y lo banea por 5 segundos y lo advierte.",
+                " *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto26": [
-                "▢ *Opción:* 🤖",
-                "▢ *Comando:*",
-                "▢ *Descripción:* Activa o desactiva el uso del comando para sub bots ",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *Opción:* 🤖",
+                " *Comando:*",
+                " *Descripción:* Activa o desactiva el uso del comando para sub bots ",
+                " *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto27": [
-                "▢ *Opción:* 💬",
-                "▢ *Comando:*",
-                "▢ *Descripción:* El Bot bloquerá a las personas que escriban al privado del Bot. ",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                " *Opción:* 💬",
+                " *Comando:*",
+                " *Descripción:* El Bot bloquerá a las personas que escriban al privado del Bot. ",
+                " *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto28": [
                 "☁️ FUNCIONES DEL BOT ☁️",
-                "[ ❗ ] La opción",
-                "exitosamente para este"
+                "[ ❗ ] 𝑳𝒂 𝑶𝒑𝒄𝒊𝒐𝒏",
+                "𝑬𝒙𝒊𝒕𝒐𝒔𝒂𝒎𝒆𝒏𝒕𝒆 𝑷𝒂𝒓𝒂 𝑬𝒔𝒕𝒆"
             ]
         },
         "convertidor_toanime": {
@@ -520,22 +520,22 @@
         },
         "descargas_instagram": {
             "texto1": "_*☁️ DESCARGAS - INSTAGRAM ☁️*_\n\n*[ ❗ ] Ingrese un enlace de Instagram.*\n\n*[ 💡 ] Ejemplo:*",
-            "texto2": "_*☁️ DESCARGAS - INSTAGRAM ☁️*_\n\n▢ *URL:*",
+            "texto2": "_*☁️ DESCARGAS - INSTAGRAM ☁️*_\n\n *URL:*",
             "texto3": "_*☁️ DESCARGAS - INSTAGRAM ☁️*_\n\n*[ ❗ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "descargas_mediafire": {
             "texto1": [
                 "_*☁️ DESCARGAS - MEDIAFIRE ☁️*_",
-                "▢ *Nombre:* ",
-                "▢ *Tamaño:* ",
-                "▢ *Extensión:*",
+                " *Nombre:* ",
+                " *Tamaño:* ",
+                " *Extensión:*",
                 "*[ ❗ ] Se está enviando el archivo. espere...*"
             ],
             "texto2": [
                 "*☁️ DESCARGAS - MEDIAFIRE ☁️*",
-                "▢ *Nombre:*",
-                "▢ *Tamaño:*",
-                "▢ *Extensión:*",
+                " *Nombre:*",
+                " *Tamaño:*",
+                " *Extensión:*",
                 "*[ ❗ ] Se está enviando el archivo. espere...*"
             ],
             "texto3": "_*☁️ DESCARGAS - MEDIAFIRE ☁️*_\n\n*[ ❗ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
@@ -549,10 +549,10 @@
             "texto2": "_*☁️ DESCARGAS - PLAY V2 ☁️*_\n\n*[ ❗ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
             "texto3": "_*☁️ DESCARGAS - PLAY V2 ☁️*_\n\n*[ ❗ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
             "texto4": [
-                "_*☁️ DESCARGAS - PLAY V2 ☁️*_\n\n▢ *Título:* ",
-                "▢ *Publicado:*",
-                "▢ *Canal:*",
-                "▢ *Vídeo URL:*"
+                "_*☁️ DESCARGAS - PLAY V2 ☁️*_\n\n *Título:* ",
+                " *Publicado:*",
+                " *Canal:*",
+                " *Vídeo URL:*"
             ],
             "texto5": "_*☁️ DESCARGAS - PLAY V2 ☁️*_\n\n*[ ❗ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
             "texto6": "_*☁️ DESCARGAS - PLAY V2 ☁️*_\n\n*[ ❗ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
@@ -563,15 +563,15 @@
                 "Good Feeling - Flo Rida_"
             ],
             "texto2": [
-                "_*☁️ DESCARGAS - PLAY ☁️*_\n\n▢ *Título:*",
-                "▢ *Publicado:*",
-                "▢ *Duración:*",
-                "▢ *Vistas:*",
-                "▢ *Autor:*",
-                "▢ *ID:*",
-                "▢ *Tipo:*",
-                "▢ *Enlace:*",
-                "▢ *Canal:*",
+                "_*☁️ DESCARGAS - PLAY ☁️*_\n\n *Título:*",
+                " *Publicado:*",
+                " *Duración:*",
+                " *Vistas:*",
+                " *Autor:*",
+                " *ID:*",
+                " *Tipo:*",
+                " *Enlace:*",
+                " *Canal:*",
                 "*[ ❗ ] Se está enviando el",
                 "espere...*"
             ],
@@ -584,10 +584,10 @@
             "texto1": "_*☁️ DESCARGAS - SPOTIFY ☁️*_\n\n*[ ❗ ] Hace falta el título de la canción de Spotify.*\n\n*[ 💡 ] Ejemplo:*",
             "texto2": [
                 "*☁️ DESCARGAS - SPOTIFY ☁️*",
-                "▢ *Título:*",
-                "▢ *Artista:*",
-                "▢ *Álbum:*",
-                "▢ *Publicado:*",
+                " *Título:*",
+                " *Artista:*",
+                " *Álbum:*",
+                " *Publicado:*",
                 "*[ ❗ ] Se está enviando el audio. espere...*"
             ],
             "texto3": "_*☁️ DESCARGAS - SPOTIFY ☁️*_\n\n*[ ❗ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
@@ -701,8 +701,8 @@
             ],
             "texto3": "*[❗] 𝙴𝚁𝚁𝙾𝚁 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰𝚁 𝙴𝙻 𝙰𝚄𝙳𝙸𝙾*",
             "texto4": [
-                "▢ 𝚃𝙸𝚃𝚄𝙻𝙾:",
-                "▢ 𝙿𝙴𝚂𝙾 𝙳𝙴𝙻 𝚅𝙸𝙳𝙴𝙾:"
+                " 𝚃𝙸𝚃𝚄𝙻𝙾:",
+                " 𝙿𝙴𝚂𝙾 𝙳𝙴𝙻 𝚅𝙸𝙳𝙴𝙾:"
             ],
             "texto5": "*[❗] 𝙴𝚁𝚁𝙾𝚁 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰𝚁 𝙴𝙻 𝚅𝙸𝙳𝙴𝙾*",
             "texto6": "*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*"
@@ -790,8 +790,8 @@
             ],
             "texto4": "*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴀᴜᴅɪᴏ..._*\n\n*◉ Sɪ Sᴜ ᴀᴜᴅɪᴏ ɴᴏ ᴇs ᴇɴᴠɪᴀᴅᴏ, ᴘʀᴜᴇʙᴇ ᴄᴏɴ ᴇʟ ᴄᴏᴍᴀɴᴅᴏ #playdoc ᴏ #play.2 ᴏ #ytmp4doc ◉*",
             "texto5": [
-                "*▢ Titulo:*",
-                "*▢ Peso Del Audio:*",
+                "* Titulo:*",
+                "* Peso Del Audio:*",
                 "*[ ✔ ] Audio descargado y enviado exitosamente.*\n\n*—◉ Se envío en formato de documento debido a que el audio pesa",
                 " MB y supera el limite establecido por WhatsApp.*\n*◉ Titulo:*",
                 "*[ ✔ ] Audio descargado y enviado exitosamente.*"
@@ -826,14 +826,14 @@
             ],
             "texto5": "*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴠɪᴅᴇᴏ..._*\n\n*◉ Sɪ Sᴜ ᴠɪᴅᴇᴏ ɴᴏ ᴇs ᴇɴᴠɪᴀᴅᴏ, ᴘʀᴜᴇʙᴇ ᴄᴏɴ ᴇʟ ᴄᴏᴍᴀɴᴅᴏ #playdoc ᴏ #play.2 ᴏ #ytmp4doc ◉*",
             "texto6": [
-                "*▢ Titulo:*",
-                "*▢ Peso Del Video:*",
+                "* Titulo:*",
+                "* Peso Del Video:*",
                 "*[ ✔ ] Video descargado y enviado exitosamente.*\n\n*—◉ Se envío en formato de docuemnto debido a que el video pesa",
                 " MB y supera el limite establecido por WhatsApp.*\n*◉ Titulo:*"
             ],
             "texto7": [
-                "*▢ Titulo:*",
-                "*▢ Peso Del Video:*",
+                "* Titulo:*",
+                "* Peso Del Video:*",
                 "*[ ✔ ] Video descargado exitosamente.*"
             ],
             "texto8": "*[ ❌ ] El video no pudo ser descargado ni enviado, vuelva a intentarlo.*",
@@ -2529,13 +2529,13 @@
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝙳𝙴 𝚄𝙽 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝙳𝙴 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼, 𝙴𝙹𝙴𝙼𝙿𝙻𝙾:",
             "texto2": [
                 "☁️ HERRAMENTAS - IGSTALK ☁️",
-                "▢ *Nombre:*",
-                "▢ *Usuario:*",
-                "▢ *Seguidores:*",
-                "▢ *Seguidos:*",
-                "▢ *Publicaciones:*",
-                "▢ *Enlace:*",
-                "▢ *Biografía:*"
+                " *Nombre:*",
+                " *Usuario:*",
+                " *Seguidores:*",
+                " *Seguidos:*",
+                " *Publicaciones:*",
+                " *Enlace:*",
+                " *Biografía:*"
             ]
         },
         "herramientas_inspect": {
@@ -2605,7 +2605,7 @@
             "texto3": [
                 "𝚁𝙴𝚂𝚄𝙻𝚃𝙰𝙳𝙾𝚂 𝙳𝙴 𝙻𝙰 𝙱𝚄𝚂𝚀𝚄𝙴𝙳𝙰",
                 "• 📌 𝚃𝙸𝚃𝚄𝙻𝙾:",
-                "• 👨‍🎤 𝙰𝚁𝚃𝙸𝚂𝚃𝙰:",
+                "• �‍🎤 𝙰𝚁𝚃𝙸𝚂𝚃𝙰:",
                 "• 💾 𝙰𝙻𝙱𝚄𝙼:",
                 "• 🌐 𝙶𝙴𝙽𝙴𝚁𝙾:",
                 "• 📆 𝙵𝙴𝙲𝙷𝙰 𝙳𝙴 𝙻𝙰𝙽𝚉𝙰𝙼𝙸𝙴𝙽𝚃𝙾:"
@@ -2678,26 +2678,26 @@
         "info_estado": {
             "texto1": [
                 "*☁️ INFO - ESTADO ☁️*_",
-                "▢ *Prop.:*",
-                "▢ *WA:*",
-                "▢ *PayPal:*",
-                "▢ *Ping:*",
-                "▢ *Uptime:*",
-                "▢ *Prefijo:*",
-                "▢ *Modo:* ",
-                "▢ *Usuarios regs.:*",
-                "▢ *Usuarios totales:*",
-                "▢ *Tipo de bot:*",
-                "▢ *Chats privados:*",
-                "▢ *Grupos:*",
-                "▢ *Chats totales:*",
-                "▢ *Autoread:* ",
-                "▢ *Restrict:* ",
-                "▢ *PCOnly:* ",
-                "▢ *GPOnly:*",
-                "▢ *AntiPrivado:*",
-                "▢ *AntiLlamada:*",
-                "▢ *ModeJadiBot:*"
+                " *Prop.:*",
+                " *WA:*",
+                " *PayPal:*",
+                " *Ping:*",
+                " *Uptime:*",
+                " *Prefijo:*",
+                " *Modo:* ",
+                " *Usuarios regs.:*",
+                " *Usuarios totales:*",
+                " *Tipo de bot:*",
+                " *Chats privados:*",
+                " *Grupos:*",
+                " *Chats totales:*",
+                " *Autoread:* ",
+                " *Restrict:* ",
+                " *PCOnly:* ",
+                " *GPOnly:*",
+                " *AntiPrivado:*",
+                " *AntiLlamada:*",
+                " *ModeJadiBot:*"
             ],
             "texto2": "Repositorio - GitHub"
         },
@@ -2771,12 +2771,12 @@
         "info_repositorio": {
             "texto1": [
                 "_*☁️ INFO - REPOSITORIO ☁️*_",
-                "▢ *Nombre:*",
+                " *Nombre:*",
                 "TheMystic-Bot-MD",
-                "▢ *Visitantes:*",
-                "▢ *Tamaño:*",
-                "▢ *Actualización:*",
-                "▢ *URL:*",
+                " *Visitantes:*",
+                " *Tamaño:*",
+                " *Actualización:*",
+                " *URL:*",
                 "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
                 "Forks ·",
                 "Stars ·",
@@ -2789,21 +2789,21 @@
         },
         "juegos_matematicas_respuestas": {
             "texto1": "_*☁️ JUEGOS - MATEMÁTICAS ☁️*_\n\n*[ ❗ ] El ejercicio matemático ya fue resuelto anteriormente.*",
-            "texto2": "`_*☁️ JUEGOS - MATEMÁTICAS ☁️*_\n\n▢ *¡Respuesta correcta!*\n\n▢ *Ganaste:*",
-            "texto3": "_*☁️ JUEGOS - MATEMÁTICAS ☁️*_\n\n▢ *Ya no tienes más oportunidades.*\n\n▢ *Respuesta correcta:*",
-            "texto4": "_*☁️ JUEGOS - MATEMÁTICAS ☁️*_\n\n▢ *Respuesta incorrecta.*\n\n▢ Todavía tienes",
+            "texto2": "`_*☁️ JUEGOS - MATEMÁTICAS ☁️*_\n\n *¡Respuesta correcta!*\n\n *Ganaste:*",
+            "texto3": "_*☁️ JUEGOS - MATEMÁTICAS ☁️*_\n\n *Ya no tienes más oportunidades.*\n\n *Respuesta correcta:*",
+            "texto4": "_*☁️ JUEGOS - MATEMÁTICAS ☁️*_\n\n *Respuesta incorrecta.*\n\n Todavía tienes",
             "texto5": " oportunidad(es)."
         },
         "juegos_matemicas": {
             "texto1": "_*☁️ JUEGOS - MATEMÁTICAS ☁️*_\n\n*[ ❗ ] Falta indicar el nivel de dificultad con el que deseas jugar.*\n\n*[ 💡 ] Ejemplo:*",
-            "texto2": "▢ *Niveles disponibles:*",
+            "texto2": " *Niveles disponibles:*",
             "texto3": "_*☁️ JUEGOS - MATEMÁTICAS ☁️*_\n\n*[ ❗ ] Aún quedan problemas matemáticos sin resolver en este chat.*",
             "texto4": [
-                "_*☁️ JUEGOS - MATEMÁTICAS ☁️*_\n\n▢ *Resuelve:*",
-                "▢ *Tiempo:*",
-                "▢ *Premio:*"
+                "_*☁️ JUEGOS - MATEMÁTICAS ☁️*_\n\n *Resuelve:*",
+                " *Tiempo:*",
+                " *Premio:*"
             ],
-            "texto5": "_*☁️ JUEGOS - MATEMÁTICAS ☁️*_\n\n*[ ❗ ] Se agotó el tiempo.*\n\n▢ *Respuesta:* "
+            "texto5": "_*☁️ JUEGOS - MATEMÁTICAS ☁️*_\n\n*[ ❗ ] Se agotó el tiempo.*\n\n *Respuesta:* "
         },
         "maker_blur": {
             "texto1": "*[ ✔ ] 𝙴𝙵𝙴𝙲𝚃𝙾 𝙰𝙿𝙻𝙸𝙲𝙰𝙳𝙾*"
@@ -2904,15 +2904,15 @@
         "menu_menu": {
             "texto1": [
                 "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕",
-                "▢ *Hola,*",
+                " *Hola,*",
                 "_*☁️ TUS ESTADÍSTICAS ☁️*_",
-                "▢ *Nivel:* ",
-                "▢ *Experiencia:* ",
-                "▢ *Rango:* ",
-                "▢ *Diamantes:* ",
-                "▢ *Coins:* ",
-                "▢ *Tokens:* ",
-                "▢ *Premium:* ",
+                " *Nivel:* ",
+                " *Experiencia:* ",
+                " *Rango:* ",
+                " *Diamantes:* ",
+                " *Coins:* ",
+                " *Tokens:* ",
+                " *Premium:* ",
                 " _*☁️ LISTA DE MENUS ☁️*_",
                 "_*☁️ SOBRE EL BOT ☁️*_",
                 "_*☁️ SUB-BOTS ☁️*_",
@@ -3348,8 +3348,8 @@
         "rpg_balance": {
             "texto1": [
                 "┌───⊷ 𝐁𝐀𝐋𝐀𝐍𝐂𝐄 ⊶",
-                "▢ *𝙽𝚘𝚖𝚋𝚛𝚎:* ",
-                "▢ *𝙳𝚒𝚊𝚖𝚊𝚗𝚝𝚎𝚜:*",
+                " *𝙽𝚘𝚖𝚋𝚛𝚎:* ",
+                " *𝙳𝚒𝚊𝚖𝚊𝚗𝚝𝚎𝚜:*",
                 "└──────────────",
                 "*𝙽𝙾𝚃𝙰:*",
                 "*𝙿𝚞𝚎𝚍𝚎𝚜 𝚌𝚘𝚖𝚙𝚛𝚊𝚛 𝚍𝚒𝚊𝚖𝚊𝚗𝚝𝚎𝚜 💎 𝚞𝚜𝚊𝚗𝚍𝚘 𝚕𝚘𝚜 𝚌𝚘𝚖𝚊𝚗𝚍𝚘𝚜*",
@@ -3604,8 +3604,8 @@
                 "*📌 Ejemplo:*",
                 "exp 65",
                 "*—◉ 📍 Artículos transferibles.*",
-                "▢ *limit* = diamantes",
-                "▢ *exp* = experiencia"
+                " *limit* = diamantes",
+                " *exp* = experiencia"
             ],
             "texto3": "*[❗] Menciona al usuario que desea hacer la transferencia.*",
             "texto4": [
@@ -3814,9 +3814,9 @@
         "handler": {
             "texto1": [
                 "_*☁️ USUARIO SUSPENDIDO ☁️*_\n",
-                "▢ *Aviso:*",
-                "\n▢ *Motivo:*",
-                "▢ *Motivo:* Sin especificar",
+                " *Aviso:*",
+                "\n *Motivo:*",
+                " *Motivo:* Sin especificar",
                 "*[ ❗ ] Si consideras que esto es un error y cuentas con pruebas, puedes comunicarte con el propietario(a) del bot para apelar la suspensión.*"
             ],
             "texto2": "*[ ❗ ] Sus diamantes se han agotado, puede adquirir más con el comando:*",
@@ -3861,10 +3861,10 @@
         "deleteUpdate": {
             "texto1": [
                 "_*☁️ ANTI-DELETE ☁️*_\n",
-                " ▢ *Usuario:*",
-                " ▢ *Hora:*",
-                "▢ *Fecha:*",
-                "▢ *Enviando el mensaje eliminado...*\n",
+                "  *Usuario:*",
+                "  *Hora:*",
+                " *Fecha:*",
+                " *Enviando el mensaje eliminado...*\n",
                 "*[ ❗ ] Para desactivar la función* _antidelete_*, envia el siguiente comando:* _/disable antidelete_"
             ]
         }
