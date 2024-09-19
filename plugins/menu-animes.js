@@ -25,11 +25,10 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 - 𝐁𝐨𝐭* —◉
-║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ ${tradutor.texto1[1]}, ${taguser}*
-╰═══╡✯✯✯✯✯✯✯✯✯╞═══╯
+    const str = `𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕
+    
+    ${tradutor.texto1[1]}, ${taguser}*
+
 
 ┏━━━━━━━━━━━━━━━━┓
 ┃ *< ${tradutor.texto1[0]} />*
@@ -74,7 +73,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ┣ ඬ⃟ 🧿 _${usedPrefix}sasuke_
 ┣ ඬ⃟ 🧿 _${usedPrefix}sakura_
 ┣ ඬ⃟ 🧿 _${usedPrefix}cosplay_
-┗━━━━━━━━━━━━━━━━┛`.trim();
+┗━━━━━━━━𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕━━━━━━━━┛`.trim();
     if (m.isGroup) {
       // await conn.sendFile(m.chat, vn, './src/assets/audio/01J673Y3TGCFF1D548242AX68Q.mp3', null, m, true, { type: 'audioMessage', ptt: true})
       const fkontak2 = {'key': {'participants': '0@s.whatsapp.net', 'remoteJid': 'status@broadcast', 'fromMe': false, 'id': 'Halo'}, 'message': {'contactMessage': {'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}, 'participant': '0@s.whatsapp.net'};
