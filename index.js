@@ -11,11 +11,11 @@ const require = createRequire(__dirname);
 const {say} = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
 
-say('The Shadows\nBot', {
+say('Bot', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`Bot Created By ShadowVz`, {
+say(`Bot Created By Antonyxt`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});
