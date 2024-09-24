@@ -14,57 +14,24 @@ global.authFile = `ShadowsBot`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['5215648118032', '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕', true],
-  ['5215648118032', '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕', true],
-  ['5215648118032', '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕', true],
-  ['5215648118032', '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕', true],
-  ['5215648118032', '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕', true],
-  ['5215648118032', '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕', true],
-  ['5215648118032', '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕', false],
-  ['5215648118032', '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕', true],
-  ['5215648118032', '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕', true],
-  ['5215648118032', '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕', true],
-  ['5215648118032', '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕', true], 
-  ['5215648118032', '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕', true],
-  ['5215648118032', '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕', true], 
-  ['5215648118032', '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕', true],
-  ['5215648118032'],
-  ['5215648118032'],
-  ['5215648118032'],
-  ['5215648118032'],
-  ['5215648118032'], 
-  ['5215648118032'],  
-  ['5215648118032'],
-  ['5215648118032'],
-  ['5215648118032'],
-  ['5215648118032'], 
-  ['5215648118032'], 
-  ['5215648118032'],
-  ['5215648118032'],
-  ['5215648118032'],
-  ['5215648118032'],
-  ['5215648118032'], 
-  ['5215648118032'],
-  ['5215648118032'],
-  ['5215648118032'],
-  ['5215648118032'],
-  ['5215648118032'],
-  ['5215648118032']
+   ['5214461281232', '👑 danny - Creador 👑', true],
+  ['5215658859551', '𝐏𝐑𝐎 𝐁𝐎𝐓 - Collaborator 2 💫', true],
+  ['5215658847374']
 ];
 
-global.suittag = ['5215648118032'];
-global.prems = ['5215648118032'];
+global.suittag = ['5215658859551'];
+global.prems = ['5215658859551'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕';
-global.author = '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕';
-global.wm = '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕';
-global.titulowm = '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕';
-global.titulowm2 = `𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕`
-global.igfg = '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕';
-global.wait = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
+global.packname = '𝐒𝐓𝐈𝐂𝐊𝐄𝐑';
+global.author = 'ɢʜᴏꜱꜱ ʙᴏᴛ';
+global.wm = 'ɢʜᴏꜱꜱ ʙᴏᴛ';
+global.titulowm = 'ɢʜᴏꜱꜱ ʙᴏᴛ';
+global.titulowm2 = `ɢʜᴏꜱꜱ ʙᴏᴛ`
+global.igfg = 'ɢʜᴏꜱꜱ ʙᴏᴛ';
+global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
 global.imagen2 = fs.readFileSync('./src/assets/images/menu/languages/pt/menu.png');
@@ -83,16 +50,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕`;
-global.gt = '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕';
-global.mysticbot = '𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕';
-global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.waitt = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
-global.waittt = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
-global.waitttt = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
-global.nomorown = '5215648118032';
+global.wm2 = `${dia} ${fecha}\nɢʜᴏꜱꜱ ʙᴏᴛ`;
+global.gt = 'ɢʜᴏꜱꜱ ʙᴏᴛ';
+global.mysticbot = 'ɢʜᴏꜱꜱ ʙᴏᴛ';
+global.channel = '';
+global.md = '';
+global.mysticbot = '';
+global.waitt = '*_[ ⏳ ] Cargando..._*';
+global.waittt = '*_[ ⏳ ] Cargando..._*';
+global.waitttt = '*_[ ⏳ ] Cargando..._*';
+global.nomorown = '5215658859551';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
