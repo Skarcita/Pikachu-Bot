@@ -15,22 +15,22 @@ global.isBaileysFail = false
 
 global.owner = [
    ['5214461281232', '👑 danny - Creador 👑', true],
-  ['5217421160806', '𝐏𝐑𝐎 𝐁𝐎𝐓 - Collaborator 2 💫', true],
-  ['5217421160806']
+  ['5219831306428', '𝐏𝐑𝐎 𝐁𝐎𝐓 - Collaborator 2 💫', true],
+  ['5219831306428']
 ];
 
-global.suittag = ['5217421160806'];
-global.prems = ['5217421160806'];
+global.suittag = ['5219831306428'];
+global.prems = ['5219831306428'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
 global.packname = '𝐒𝐓𝐈𝐂𝐊𝐄𝐑';
-global.author = '𝐖𝐈𝐍𝐍𝐈𝐄 ʙᴏᴛ';
-global.wm = '𝐖𝐈𝐍𝐍𝐈𝐄 ʙᴏᴛ';
-global.titulowm = '𝐖𝐈𝐍𝐍𝐈𝐄 ʙᴏᴛ';
-global.titulowm2 = `𝐖𝐈𝐍𝐍𝐈𝐄 ʙᴏᴛ`
-global.igfg = '𝐖𝐈𝐍𝐍𝐈𝐄 ʙᴏᴛ';
+global.author = '𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ';
+global.wm = '𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ';
+global.titulowm = '𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ';
+global.titulowm2 = `𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ`
+global.igfg = '𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
@@ -50,16 +50,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐖𝐈𝐍𝐍𝐈𝐄 ʙᴏᴛ`;
-global.gt = '𝐖𝐈𝐍𝐍𝐈𝐄 ʙᴏᴛ';
-global.mysticbot = '𝐖𝐈𝐍𝐍𝐈𝐄 ʙᴏᴛ';
+global.wm2 = `${dia} ${fecha}\n𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ`;
+global.gt = '𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ';
+global.mysticbot = '𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ';
 global.channel = '';
 global.md = '';
 global.mysticbot = '';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5217421160806';
+global.nomorown = '5219831306428';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
