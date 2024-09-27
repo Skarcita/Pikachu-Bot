@@ -21,7 +21,7 @@
             "texto3": "_*☁️ ANTI-LINK 2 ☁️*_\n\n*[ ❗ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
         },
         "_antiprivado": {
-            "texto1": "_*☁️ ANTI-PRIVADO ☁️*_\n\n*[ ❗ ] Este es un bot para grupos de WhatsApp. 📲 Cualquier cosa, comunícate con mi dueño  📞 +527421160806*"
+            "texto1": "_*☁️ ANTI-PRIVADO ☁️*_\n\n*[ ❗ ] Este es un bot para grupos de WhatsApp.*"
         },
         "_antitoxic": {
             "texto1": "_*☁️ ANTI-TOXIC ☁️*_\n\n*[ ❗ ] ",
@@ -2350,7 +2350,7 @@
         "gc_tagall": {
             "texto1": [
                 "*𝙼𝙴𝙽𝚂𝙰𝙹𝙴:*",
-                "*ACTIVENSE LES HABLA WINNIE BOT 💯*\n\n❏",
+                "*ACTIVENSE LES HABLA 𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 BOT 💯*\n\n❏",
                 "❏ *𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙰𝚂:*"
             ]
         },
@@ -2907,7 +2907,6 @@
                 " _*☁️ ECONOMÍA ☁️*_",
                 " _*☁️ STICKERS ☁️*_",
                 "_*☁️ PROPIETARIO Y MODS. ☁️*_",
-                "*[ ❗ ] Este menu tiene un error interno, por lo cual no fue posible enviarlo.*",
                 "*<opcion> <tiempo>*_",
                 "(sin prefijo)",
                 "*<nombre sala>*_"
