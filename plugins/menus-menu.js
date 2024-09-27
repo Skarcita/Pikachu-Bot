@@ -32,11 +32,11 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `𝐖𝐈𝐍𝐍𝐈𝐄 BOT
+    const str = `𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 BOT
 
 ${tradutor.texto1[1]} ${taguser}
 
-> ★ 𝐖𝐈𝐍𝐍𝐈𝐄 𝐁𝐎𝐓 ✨ ★
+> ★ 𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 𝐁𝐎𝐓 ✨ ★
 
 
 ${tradutor.texto1[3]} ${level}
@@ -517,7 +517,7 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ├❧ _${usedPrefix}delcmd_
   ├❧ _${usedPrefix}saveimage_
   ├❧ _${usedPrefix}viewimage_
-  ╰───── 𝑩𝒐𝒎𝒃𝒐𝒏 𝑩𝒐𝒕 ─────╯`
+  ╰──────────╯`
 
     let pp
     // Nouvelles images de menu disponibles 
