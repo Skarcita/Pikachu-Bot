@@ -26,11 +26,11 @@ global.prems = ['5219831306428'];
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
 global.packname = '𝐒𝐓𝐈𝐂𝐊𝐄𝐑';
-global.author = '𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ';
-global.wm = '𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ';
-global.titulowm = '𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ';
-global.titulowm2 = `𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ`
-global.igfg = '𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ';
+global.author = '𝐀𝐂𝐋𝐔 ʙᴏᴛ';
+global.wm = '𝐀𝐂𝐋𝐔 ʙᴏᴛ';
+global.titulowm = '𝐀𝐂𝐋𝐔 ʙᴏᴛ';
+global.titulowm2 = `𝐀𝐂𝐋𝐔 ʙᴏᴛ`
+global.igfg = '𝐀𝐂𝐋𝐔 ʙᴏᴛ';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
@@ -50,9 +50,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ`;
-global.gt = '𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ';
-global.mysticbot = '𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐀 ʙᴏᴛ';
+global.wm2 = `${dia} ${fecha}\n𝐀𝐂𝐋𝐔 ʙᴏᴛ`;
+global.gt = '𝐀𝐂𝐋𝐔 ʙᴏᴛ';
+global.mysticbot = '𝐀𝐂𝐋𝐔 ʙᴏᴛ';
 global.channel = '';
 global.md = '';
 global.mysticbot = '';
