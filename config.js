@@ -15,22 +15,22 @@ global.isBaileysFail = false
 
 global.owner = [
    ['5214461281232', '👑 danny - Creador 👑', true],
-  ['5219831306428', '𝐏𝐑𝐎 𝐁𝐎𝐓 - Collaborator 2 💫', true],
-  ['5219831306428']
+  ['5219711451321', '𝐏𝐑𝐎 𝐁𝐎𝐓 - Collaborator 2 💫', true],
+  ['5219711451321']
 ];
 
-global.suittag = ['5219831306428'];
-global.prems = ['5219831306428'];
+global.suittag = ['5219711451321'];
+global.prems = ['5219711451321'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
 global.packname = '𝐒𝐓𝐈𝐂𝐊𝐄𝐑';
-global.author = '𝐀𝐂𝐋𝐔 ʙᴏᴛ';
-global.wm = '𝐀𝐂𝐋𝐔 ʙᴏᴛ';
-global.titulowm = '𝐀𝐂𝐋𝐔 ʙᴏᴛ';
-global.titulowm2 = `𝐀𝐂𝐋𝐔 ʙᴏᴛ`
-global.igfg = '𝐀𝐂𝐋𝐔 ʙᴏᴛ';
+global.author = '𝐏𝐈𝐊𝐀𝐂𝐇𝐔 ʙᴏᴛ';
+global.wm = '𝐏𝐈𝐊𝐀𝐂𝐇𝐔 ʙᴏᴛ';
+global.titulowm = '𝐏𝐈𝐊𝐀𝐂𝐇𝐔 ʙᴏᴛ';
+global.titulowm2 = `𝐏𝐈𝐊𝐀𝐂𝐇𝐔 ʙᴏᴛ`
+global.igfg = '𝐏𝐈𝐊𝐀𝐂𝐇𝐔 ʙᴏᴛ';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
@@ -50,16 +50,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐀𝐂𝐋𝐔 ʙᴏᴛ`;
-global.gt = '𝐀𝐂𝐋𝐔 ʙᴏᴛ';
-global.mysticbot = '𝐀𝐂𝐋𝐔 ʙᴏᴛ';
+global.wm2 = `${dia} ${fecha}\n𝐏𝐈𝐊𝐀𝐂𝐇𝐔 ʙᴏᴛ`;
+global.gt = '𝐏𝐈𝐊𝐀𝐂𝐇𝐔 ʙᴏᴛ';
+global.mysticbot = '𝐏𝐈𝐊𝐀𝐂𝐇𝐔 ʙᴏᴛ';
 global.channel = '';
 global.md = '';
 global.mysticbot = '';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5219831306428';
+global.nomorown = '5219711451321';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
